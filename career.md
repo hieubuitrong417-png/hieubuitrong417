@@ -21,7 +21,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức | Animation, game và mỹ thuật | Animation 2D, hiệu ứng động 2D và các dự án game | Storyboard, kịch bản và cách kể chuyện bằng hình ảnh | chưa |
-| Kỹ năng | Diễn hoạt 2D, rigging và tạo hiệu ứng 2D |  kế animatThiếtion 2D, tạo hiệu ứng 2D | Diễn hoạt nhân vật, vẽ minh họa, thiết kế nhân vật và bối cảnh | một phần|
+| Kỹ năng | Diễn hoạt 2D, rigging và tạo hiệu ứng 2D |Thiết kế animation 2D, tạo hiệu ứng 2D | Diễn hoạt nhân vật, vẽ minh họa, thiết kế nhân vật và bối cảnh | một phần|
 | Thái độ | Tin tuyển dụng không nêu yêu cầu thái độ cụ thể | Tin tuyển dụng không nêu yêu cầu thái độ cụ thể | Phối hợp với biên kịch, họa sĩ minh họa và các thành viên trong nhóm; đóng góp ý tưởng | một phần |
 | Công cụ | Spine 2D, After Effects, Photoshop hoặc vẽ tay | Spine và các công cụ AI được sử dụng trong quy trình sản xuất | Tin tuyển dụng không nêu tên phần mềm cụ thể | chưa |
 

@@ -30,39 +30,39 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
-
+| 1 | Công ty TNHH Kỹ thuật Công nghệ Blue Dream | 2D Animator (Game) | https://www.topcv.vn/viec-lam/2d-animator-game/2330312.html | 22/10/2026 |
+| 2 | Công ty TNHH Skylink Group | 2D Animator | https://www.topcv.vn/viec-lam/2d-animator/2321571.html | 22/10/2026 |
+| 3 | NetSpa | 2D Animator | https://www.arena-multimedia.vn/tuyen-dung/hcm-netspa-tuyen-dung-vi-tri-2d-animator/ | 22/10/2026 |
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- **AI viết:** [Dán nguyên văn câu AI đã viết nhưng không có căn cứ trong tin tuyển dụng.]
+- **Tin tuyển dụng thật ra viết:** [Trích nguyên văn nội dung từ tin tuyển dụng gốc.]
+- **Tôi sửa thành:** [Viết lại nội dung chính xác theo nguồn.]
 
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- **AI viết:** [Dán nguyên văn câu AI thứ hai đã viết nhưng không có căn cứ trong tin tuyển dụng.]
+- **Tin tuyển dụng thật ra viết:** [Trích nguyên văn nội dung từ tin tuyển dụng gốc.]
+- **Tôi sửa thành:** [Viết lại nội dung chính xác theo nguồn.]
 
 ## Một quyết định đạo đức
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- **Phía luật sư công ty lập luận rằng:** Công ty cần hoàn thành sản phẩm đúng hạn để đáp ứng yêu cầu kinh doanh. Tuy nhiên, việc thu thập dữ liệu vẫn phải tuân thủ quy định pháp luật và bảo vệ quyền riêng tư.
+- **Phía người dùng lập luận rằng:** Người dùng có quyền được biết dữ liệu vị trí của mình được thu thập và sử dụng như thế nào. Việc thu thập không minh bạch có thể xâm phạm quyền riêng tư và làm mất lòng tin.
+- **Quyết định của tôi, và vì sao:** Em sẽ tạm dừng việc thu thập vị trí khi chưa bảo đảm tính minh bạch và các yêu cầu pháp lý. Em đề xuất công ty thông báo rõ mục đích thu thập, chỉ thu thập dữ liệu cần thiết và thực hiện các yêu cầu về sự đồng ý phù hợp trước khi triển khai. Em cho rằng không nên đánh đổi quyền riêng tư của người dùng chỉ để đáp ứng thời hạn hoàn thành sản phẩm.
+
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Mỗi tuần dành ít nhất ba buổi, mỗi buổi 30 phút, để luyện vẽ hình khối, dáng người và biểu cảm nhân vật.
+2. Trong tháng đầu tiên, tìm hiểu một phần mềm hoạt hình 2D và thực hành tạo chuyển động đơn giản cho nhân vật.
+3. Trước khi kết thúc học kỳ, hoàn thành một đoạn hoạt hình 2D dài khoảng 10–15 giây, lưu lại bản phác thảo và quá trình thực hiện để tự đánh giá tiến bộ.
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -70,9 +70,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Em hỏi AI về nghề hoạt hình 2D, những năng lực cần thiết và cách tổng hợp yêu cầu từ các tin tuyển dụng. |
+| **Hoài** | Em nghi ngờ những thông tin AI đưa ra nhưng không xuất hiện trong nội dung tuyển dụng gốc, đặc biệt là những yêu cầu về kỹ năng và phần mềm chưa có bằng chứng. |
+| **Học** | Em học được cách đối chiếu câu trả lời của AI với nguồn tuyển dụng thực tế và nhận ra AI có thể bổ sung thông tin không được đề cập trong nguồn. |
+| **Hành** | Em kiểm tra lại nội dung các tin tuyển dụng, đối chiếu thông tin và chỉnh sửa những nội dung chưa có căn cứ trước khi hoàn thiện bài. |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: ChatGPT và Gemini (chỉ giữ tên công cụ em thực sự đã sử dụng.

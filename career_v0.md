@@ -8,10 +8,12 @@ title: Chân dung nghề của tôi
 > Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
 
 ## Hướng tôi nhắm
-
+**Họa sĩ hoạt hình 2D (2D Animator)**
 …
 
-Vì sao: …
+Vì sao:Em thích vẽ, sáng tạo nhân vật và tưởng tượng ra những câu chuyện. Em muốn biến những ý tưởng của mình thành các bộ phim hoạt hình sinh động. Em cũng mong muốn góp phần phát triển ngành hoạt hình Việt Nam. Để theo đuổi nghề này, em cần rèn luyện kỹ năng vẽ, thiết kế nhân vật, diễn hoạt chuyển động, sử dụng phần mềm chuyên dụng và tính kiên nhẫn.
+
+## Bảng năng lực rút từ ba tin tuyển dụng
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
@@ -19,10 +21,10 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức | Animation, game và mỹ thuật | Animation 2D, hiệu ứng động 2D và các dự án game | Nguyên lý Animation 2D, bố cục, màu sắc, chuyển động nhân vật và quy trình sản xuất từ Storyboard đến sản phẩm hoàn thiện | chưa |
+| Kỹ năng | Diễn hoạt 2D, rigging và tạo hiệu ứng 2D | Thiết kế animation 2D, tạo hiệu ứng 2D | Diễn hoạt nhân vật, vẽ minh họa, thiết kế nhân vật và bối cảnh, đọc Storyboard | một phần |
+| Thái độ | Tin tuyển dụng không nêu yêu cầu thái độ cụ thể | Tin tuyển dụng không nêu yêu cầu thái độ cụ thể | Chủ động, sáng tạo, có trách nhiệm, phối hợp với các thành viên trong nhóm và đảm bảo tiến độ | một phần |
+| Công cụ | Spine 2D, After Effects, Photoshop hoặc vẽ tay | Spine và các công cụ AI được sử dụng trong quy trình sản xuất | Toon Boom Harmony, Adobe Animate, Moho, Spine hoặc phần mềm tương đương | chưa |
 
 ## Ba tin tuyển dụng
 
